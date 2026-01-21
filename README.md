@@ -1,81 +1,55 @@
-# Hi there! I'm Wu Fulin (吴福林) 👋
+<h1 align="center">Hi 👋, I'm <a href="https://wufulin.github.io" target="blank">
+Wu Fulin</a></h1>
 
-<a href="https://github.com/wufulin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=wufulin&show_icons=true&theme=radical" alt="wufulin's github stats" />
+<h3 align="center">A passionate and idealistic Full-Stack engineer, AI Agent, and AI Infra developer</h3>
+
+----
+
+
+### 👨🏻‍💻&nbsp;About me
+
+- 💼 **HPC Technical Manager** at <a href="https://www.hkstp.org" target="blank">HKSTP</a> (2025 - Present)
+
+- 🎓 **Bachelor's Degree** from Sun Yat-sen University (985, 211) in Geographic Information System (2007-2011)
+
+- 💡 **14+ years** in R&D with 6+ years in technical management • Built IoT PaaS platforms, AI video systems, and MLOps platforms
+
+- 🌱 I’m currently learning AI Agent && <a href="https://github.com/datawhalechina/easy-rl?tab=readme-ov-file" target="blank">Reinforcement Learning</a>
+
+- 📫 How to reach me **wufulinit@gmail.com**
+
+- 📝 I regularly write articles on [https://wufulin.github.io](https://wufulin.github.io)
+
+- 🤝 I’m available for freelancing
+
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-## About Me 🚀
+### 🛠 &nbsp;Tech Stack
 
-I'm a **Java Backend Developer** passionate about building scalable applications and distributed systems. Currently a senior student at **Guangdong College of Technology** majoring in Software Engineering.
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
-- 💼 **Java Backend Developer Intern** at Shenzhen Leyi Network Technology Co., Ltd.
-- 🎓 **GPA: 3.72/4.0** | Software Engineering (2021-2025)
-- 🌐 Based in China | Open to remote opportunities
-- 💡 Love exploring **microservices, distributed systems, and open source**
+### ⚙️ &nbsp;GitHub Analytics
 
-## Tech Stack 🛠️
+| <a href="https://github.com/wufulin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wufulin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wu Fulin's github stats" /></a> | <a href="https://github.com/wufulin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wufulin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-### Core Skills
-- **Languages**: Java, SQL
-- **Frameworks**: Spring, SpringMVC, MyBatis, **Spring Boot**, **Spring Cloud Alibaba**
-- **Databases**: **MySQL**, **Redis**
-- **Message Queue**: **RabbitMQ**
-- **Tools**: Git, Maven, IntelliJ IDEA, Docker
+### Top Repositories
 
-### Currently Learning
-- Advanced Spring Cloud Alibaba ecosystem
-- Distributed system design patterns
-- Microservices architecture best practices
-
-## Featured Projects ⭐
-
-### 🏦 职工养老基金管理系统 (Employee Pension Fund Management System)
-**Tech Stack**: Spring Boot, Spring Security, MyBatis, MySQL, Redis, RabbitMQ
-
-- Developed comprehensive pension fund management system with RBAC permissions
-- Implemented **Redis caching** for common data (50K+ queries) and **RabbitMQ** for asynchronous data updates
-- Built custom Excel import/export tool using EasyPOI
-- Optimized database performance through **MySQL indexing** (50% reduction in query time)
-
-### 📚 自助图书借阅系统 (Self-service Book Lending System)
-**Tech Stack**: Spring Boot, MyBatis, MySQL, Lombok, Logback
-
-- Designed complete library management system with book info and lending workflows
-- Implemented **Lombok** for cleaner code and **Logback** for logging
-- Created custom annotations for AOP-based logging
-- Built team collaboration module with task tracking
-
-### 🗑️ 垃圾分类识别系统 (Garbage Classification Recognition System)
-**Tech Stack**: Spring Boot, Baidu AI OCR, MySQL, Semantic UI
-
-- Integrated Baidu AI OCR API for image recognition (95%+ accuracy)
-- Developed batch image upload and classification module
-- Built frontend with **Semantic UI** for responsive design
-- Implemented multilingual support (Chinese/English)
-
-## GitHub Stats 📊
-
-<a href="https://github.com/wufulin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wufulin&layout=compact&theme=radical" alt="Top Languages" />
+<a href="https://github.com/wufulin/AI-Trader">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wufulin&repo=AI-Trader&theme=buefy" />
+</a>
+<a href="https://github.com/wufulin/yolo-dataset-backend-V2">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=wufulin&repo=yolo-dataset-backend-V2&theme=buefy" />
 </a>
 
-<a href="https://github.com/wufulin">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wufulin&theme=radical" alt="GitHub Streak" />
-</a>
-
-## Connect With Me 🤝
-
-- 📧 Email: [wufulin1314@outlook.com](mailto:wufulin1314@outlook.com)
-- 🌐 Blog: [blog.wufulin.com](https://blog.wufulin.com)
-- 💼 GitHub: [github.com/wufulin](https://github.com/wufulin)
-- 📱 Phone: +86 138-2439-4271
-
----
-
-⭐ **Fun Fact**: I'm passionate about clean code, best practices, and contributing to open source projects. Always learning, always growing!
-
-**Note**: This profile README is inspired by [anuraghazra](https://github.com/anuraghazra)'s awesome GitHub profile style.
-
----
-
-![Visitor Count](https://profile-counter.glitch.me/wufulin/count.svg)
+<br />
