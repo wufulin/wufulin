@@ -8,6 +8,10 @@ Wu Fulin</a></h1>
 
 ### 👨🏻‍💻&nbsp;About me
 
+<a target="_blank" align="center">
+  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 - 💼 **HPC Technical Manager** at <a href="https://www.hkstp.org" target="blank">HKSTP</a> (2025 - Present)
 
 - 🎓 **Bachelor's Degree** from Sun Yat-sen University (985, 211) in Geographic Information System (2007-2011)
@@ -22,9 +26,6 @@ Wu Fulin</a></h1>
 
 - 🤝 I’m available for freelancing
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,8 +40,7 @@ Wu Fulin</a></h1>
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=kubernetes)&nbsp;
 
 ### ⚙️ &nbsp;GitHub Analytics
-
-| <a href="https://github.com/wufulin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wufulin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wu Fulin's github stats" /></a> | <a href="https://github.com/wufulin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wufulin&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/wufulin"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wufulin&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Wu Fulin's github stats" /></a> | <a href="https://github.com/wufulin"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wufulin&theme=buefy&layout=donut&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Top Repositories
